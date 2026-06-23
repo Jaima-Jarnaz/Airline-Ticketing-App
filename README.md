@@ -6,6 +6,13 @@ This project is a comprehensive airline check-in application built using React a
 
 The application follows the Atomic Design Principle, which structures UI components into atoms, molecules, organisms, templates, and pages, promoting reusability and maintainability. SCSS is used for styling, providing powerful features like variables, nesting, and mixins to write clean and manageable CSS.
 
+![Home screen](images/home.png)
+
+## Demos
+
+- [App Demonstration Demo](https://drive.google.com/drive/u/0/folders/1p2ne8qU_tJj9d5bETJGVQudnaj-GOywK)
+- [Cypress Testing Demo](https://drive.google.com/drive/u/0/folders/1ZZQwOObKQoYnhOYkC6mHBZclcnKx9xvB)
+
 # Table of Contents
 
 - [Getting Started](#getting-started)
